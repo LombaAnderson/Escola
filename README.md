@@ -5,9 +5,18 @@
 
 # Sobre o projeto
 
-https://www.youtube.com/watch?v=kmsM_hHrDHE
+Pequena lista com lista de disciplinas e datas de provas tanto do Enem quanto das disciplinas da escola. Deixo claro que são somente a titulo de trabalho.
+Meramente ficticias as lista.
 
-Site_VueJS é um projeto VueJS que fiz tomando como base o consumo de API já pronta de um colega programador William Costa onde ele cria um projeto VueJS juntamente com Axios.
+# Abaixo a lista sendo feita no Vs Code
+
+![fazendo](https://user-images.githubusercontent.com/60937513/131852665-9116a7f4-4cdc-471c-adeb-6b0bebb46ebe.png)
+
+
+# Lista pronta
+
+![pronto](https://user-images.githubusercontent.com/60937513/131852776-b6f0d8c1-21b2-4376-889a-440580889837.png)
+
 
 # Tecnologias utilizadas
 ## Back end
@@ -15,14 +24,13 @@ Site_VueJS é um projeto VueJS que fiz tomando como base o consumo de API já pr
 
 
 ## Front end 
-- HTML / CSS/ Vuejs/Axios
-- Axios: Hábil na interceptar requisições(requests) HTTP.
+- HTML / CSS/ Vuejs/
 
 Pré-requisitos: npm 
 
 ```bash
 # clonar repositório
-git clone https://github.com/LombaAnderson/Site_VueJS.git
+git clone https://github.com/LombaAnderson/Escola.git
 
 # instalar dependências
 npm install
@@ -30,13 +38,13 @@ npm install
 ## Como executar o projeto
 
 ## Back end
-Pré-requisitos: NodeJS/Npm/Axios
+Pré-requisitos: NodeJS/Npm
 
 # criar a pasta do projeto no VS Code
-dev-site
+Lista_Escola
 
 # Criar projeto VueJs
-vue create dev-site
+vue create Lista_Escola
 
 # Tipo de projeto Vuejs criado
 Default ([Vue 2] babel, eslint)
@@ -46,7 +54,7 @@ npm run serve
 
 
 
-________
+____________________
 
 # Autor
 
