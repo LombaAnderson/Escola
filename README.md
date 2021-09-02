@@ -5,7 +5,7 @@
 
 # Sobre o projeto
 
-Pequena lista com disciplinas e datas de provas tanto do Enem quanto das disciplinas da escola. Deixo claro que são somente a titulo de trabalho.
+Pequena lista com disciplinas e datas de provas tanto do Enem quanto das disciplinas da escola. Deixo claro que são somente a título de trabalho.
 Meramente ficticias as lista.
 
 # Abaixo a lista sendo feita no Vs Code
