@@ -49,7 +49,7 @@ vue create Lista_Escola
 # Tipo de projeto Vuejs criado
 Default ([Vue 2] babel, eslint)
 
-# executar o projeto no terminal dentro da pasta dev-site
+# executar o projeto no terminal dentro da pasta Lista_Escola
 npm run serve
 
 
